@@ -1,0 +1,10 @@
+# Your own research stays local by default: it is personal data about real families.
+# Remove these lines only if you know the repo stays private.
+genealogy/
+*.ged
+*.gedcom
+# DNA exports never go into a repo
+*dna*.csv
+*DNA*.csv
+__pycache__/
+.claude/settings.local.json
