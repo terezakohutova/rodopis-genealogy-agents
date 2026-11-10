@@ -80,6 +80,10 @@ Why: archives reject or forward e-mails they do not accept, and the request wait
 Every archive and office has a row in the register: what they hold, what they do NOT hold (verified negatives with a date), fees, how to apply, contact, checked on. Every request has a row in the request log. Before a new letter, check both: what they do not hold, and whether the same request is already running.
 Why: so the right people are asked once, and nobody is bothered with a question they already answered.
 
+The register is the institutions' memory: what each one holds and what not, what was destroyed or never existed (with the date and the reply it comes from), how to apply, what a request must contain, language and greeting, fees and how to pay, deadlines, contact. Every new reply goes into it.
+- **Destroyed, never existed or not held:** do not write. Tell the researcher instead: "<institution> does not hold it / it was destroyed, reply of <date>, <reference or thread>". If the reply names who holds it, propose that institution.
+- **No genealogical research:** some archives copy only an entry the researcher can identify by name, place and exact date. Ask them only for such entries; anything with an estimated year goes to the reading room or a private genealogist, not into a letter.
+
 ## 13. Same-name siblings first
 
 When the tree shows an impossible date (death before birth, mother too young), first look at the person's immediate family for a same-name sibling who died young. Often the date of the older child was copied onto the younger one with the same name. Only then go to the archive.
