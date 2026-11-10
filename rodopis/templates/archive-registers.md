@@ -13,7 +13,8 @@ rod-archivy creates `genealogy/archives/institutions.md` and `genealogy/archives
 
 - **Type:** state archive, district archive, city archive, registry office, parish office, museum, memorial, other.
 - **How to apply:** e-mail / web form (link) / PDF form as attachment / data box / letter. If it is a form, rod-archivy never writes an e-mail there.
-- **Does NOT hold:** only negatives confirmed by the institution or its official guide, each with a date. This column prevents asking the wrong place twice.
+- **Does NOT hold:** only negatives confirmed by the institution or its official guide, each with a date and the reply it comes from (reference number or thread). Includes fonds that were destroyed or never existed, and "does no genealogical research, copies only entries with an exact date". This column prevents asking the wrong place twice; with a negative here, no letter is written (`rodopis/rules.md` section 12).
+- **Notes:** what a request must contain (their own form, a signed paper form by post, a financial limit, proof of kinship and for how old records), language and greeting that worked, reply deadlines.
 - **Contact:** only from the institution's official website or its own e-mail, with the source.
 
 ## genealogy/archives/requests.md
