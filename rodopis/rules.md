@@ -83,6 +83,8 @@ Why: so the right people are asked once, and nobody is bothered with a question 
 The register is the institutions' memory: what each one holds and what not, what was destroyed or never existed (with the date and the reply it comes from), how to apply, what a request must contain, language and greeting, fees and how to pay, deadlines, contact. Every new reply goes into it.
 - **Destroyed, never existed or not held:** do not write. Tell the researcher instead: "<institution> does not hold it / it was destroyed, reply of <date>, <reference or thread>". If the reply names who holds it, propose that institution.
 - **No genealogical research:** some archives copy only an entry the researcher can identify by name, place and exact date. Ask them only for such entries; anything with an estimated year goes to the reading room or a private genealogist, not into a letter.
+- **Refused or brushed off:** an institution that said it does no research, answered only with a fee list, or sent us elsewhere goes into `genealogy/archives/do-not-write.md` with the date, the reply, the exact sentence and the consequence (never write / form only / data box only / no research requests). Nobody writes there again the same way.
+- **Recommended sources:** every source, address or online collection an archive recommends in a reply goes into `genealogy/archives/recommended-sources.md`. Try those before writing a new letter; each refusal in the do-not-write list points to the recommended way instead.
 
 ## 13. Same-name siblings first
 
